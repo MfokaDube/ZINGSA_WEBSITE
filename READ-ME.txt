@@ -1,11 +1,15 @@
-  =>  Template Name    : Restoran - Bootstrap Restaurant Template
+  =>  Website Name    : ZINGSA- Zimbabwe National Geospatial And Space Agency
 
-  =>  Template Link    : https://htmlcodex.com/bootstrap-restaurant-template
+  =>  Template Link    : https://www.zingsa.co.zw
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Website Author  : Raymond Zenda
 
-  =>  Template Author  : HTML Codex
+  =>  Author Github   : https://www.github.com/raymondzenda
 
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About ZINGSA  : ZINGSA is a wholly owned Government of Zimbabwe entity, established under the 
+                                Research act [Chapter 10:22], responsible for designing, promoting, coordinating and 
+                                conducting research and development initiatives that promote advances in Geospatial 
+                                Sciences and Earth Observations, Space Engineering, Space Science, Aeronautical 
+                                Engineering, Mechatronics, Satellite Communication Systems, Global Navigation Satellite 
+                                Systems (GNSS), Land Positioning Systems, Unmanned Aerial Vehicles (UAV) and Launch 
+                                of Satellites.
