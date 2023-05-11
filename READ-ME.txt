@@ -1,10 +1,8 @@
   =>  Website Name    : ZINGSA- Zimbabwe National Geospatial And Space Agency
 
-  =>  Template Link    : https://www.zingsa.co.zw
+  =>  website Link    : https://www.zingsa.co.zw
 
-  =>  Website Author  : Raymond Zenda
-
-  =>  Author Github   : https://www.github.com/raymondzenda
+  =>  Raymond Zenda   : https://www.github.com/raymondzenda
 
   =>  About ZINGSA  : ZINGSA is a wholly owned Government of Zimbabwe entity, established under the 
                                 Research act [Chapter 10:22], responsible for designing, promoting, coordinating and 
